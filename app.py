@@ -14,3 +14,5 @@ date = dt.date.today()
 
 df = pd.read_csv(os.path.join(x, 'data.csv'))
 
+x
+
